@@ -14,6 +14,6 @@ This repository contains all the files necessary to replicate the results shown 
 
 **3. Use the Master do-file to replicate the results** Results can be replicated by running Master.do in the Do-files folder. It is only necessary to add your computer's username and path to the downloaded replication folder as described in PART 2 of Master.do. You can select which sections to run by editing the globals in PART 1. Make sure to run the packages section to install all necessary packages before running the other sections.
 
-**Necessary data sets can be found in the Data folder** 
+*Necessary data sets can be found in the Data folder** 
 
 **4. Outputs will only be created one you run the Master do-file** The Output folder and its subfolders will be empty until then. They are only included in this folder to reflect the folder structure in Master.do so it can run without errors.
