@@ -3,6 +3,3 @@ The replication documentation that this Read Me file accompanies was constructed
 
 The data management and analysis for this paper were conducted with Stata SE, 64 bit, version 15, on a Windows operating system.  Minor modifications may be required to run the do-files on a Mac or Linux operating system.
 
-# The content and organization of the replication documentation:
-
-The documentation for the paper is stored in folders that are organized as illustrated below:
