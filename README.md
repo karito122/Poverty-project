@@ -6,12 +6,3 @@ The data management and analysis for this paper were conducted with Stata SE, 64
 # The content and organization of the replication documentation:
 
 The documentation for the paper is stored in folders that are organized as illustrated below:
-
-# “Replication-Documentation” (the main folder)
-
-# “Documents” (sub-folder of the “Replication-Documentation” folder)
-
-ReadMe.pdf: This document.
-		
-Final report_ISDS.pdf:  The research paper for which this replication documentation has been prepared.
-
